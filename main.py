@@ -8,7 +8,7 @@ __status__ = "beta"
 
 from csv2urdf import CSV2URDF
 
-robot_name = "BRUCE_V1.4_DUMMY_Sim_simplified"
+robot_name = "BRUCE_V1.4_simplified"
 csv_path = "files/"+robot_name+".csv"
 urdf_path = "files/"+robot_name+".urdf"
 
