@@ -71,7 +71,7 @@ class Element(object):
             urdf += "    <parent\n"
             urdf += "      link=\""+self.data["PARENT"]+"\" />\n"
             urdf += "    <child\n"
-            urdf += "      link=\""+self.data["JOINT NAME"]+"\" />\n"
+            urdf += "      link=\""+self.data["LINK NAME"]+"\" />\n"
             urdf += "    <axis\n"
             urdf += "      xyz=\""+self.data["JOINT AXIS X"]+" "+self.data["JOINT AXIS Y"]+" "+self.data["JOINT AXIS Z"]+"\" />\n"
             urdf += "    <limit\n"
