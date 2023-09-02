@@ -27,7 +27,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/base_link.STL" />
+          filename="package://bruce/meshes/base_link.STL" />
       </geometry>
       <material
         name="">
@@ -41,7 +41,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/base_link.STL" />
+          filename="package://bruce/meshes/base_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -67,7 +67,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/hip_yaw_link_r.STL" />
+          filename="package://bruce/meshes/hip_yaw_link_r.STL" />
       </geometry>
       <material
         name="">
@@ -81,7 +81,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/hip_yaw_link_r.STL" />
+          filename="package://bruce/meshes/hip_yaw_link_r.STL" />
       </geometry>
     </collision>
   </link>
@@ -125,7 +125,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/hip_roll_link_r.STL" />
+          filename="package://bruce/meshes/hip_roll_link_r.STL" />
       </geometry>
       <material
         name="">
@@ -139,7 +139,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/hip_roll_link_r.STL" />
+          filename="package://bruce/meshes/hip_roll_link_r.STL" />
       </geometry>
     </collision>
   </link>
@@ -183,7 +183,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/hip_pitch_link_r.STL" />
+          filename="package://bruce/meshes/hip_pitch_link_r.STL" />
       </geometry>
       <material
         name="">
@@ -197,7 +197,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/hip_pitch_link_r.STL" />
+          filename="package://bruce/meshes/hip_pitch_link_r.STL" />
       </geometry>
     </collision>
   </link>
@@ -241,7 +241,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/knee_pitch_link_r.STL" />
+          filename="package://bruce/meshes/knee_pitch_link_r.STL" />
       </geometry>
       <material
         name="">
@@ -255,7 +255,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/knee_pitch_link_r.STL" />
+          filename="package://bruce/meshes/knee_pitch_link_r.STL" />
       </geometry>
     </collision>
   </link>
@@ -299,7 +299,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/ankle_pitch_link_r.STL" />
+          filename="package://bruce/meshes/ankle_pitch_link_r.STL" />
       </geometry>
       <material
         name="">
@@ -313,7 +313,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/ankle_pitch_link_r.STL" />
+          filename="package://bruce/meshes/ankle_pitch_link_r.STL" />
       </geometry>
     </collision>
   </link>
@@ -357,7 +357,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/hip_yaw_link_l.STL" />
+          filename="package://bruce/meshes/hip_yaw_link_l.STL" />
       </geometry>
       <material
         name="">
@@ -371,7 +371,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/hip_yaw_link_l.STL" />
+          filename="package://bruce/meshes/hip_yaw_link_l.STL" />
       </geometry>
     </collision>
   </link>
@@ -415,7 +415,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/hip_roll_link_l.STL" />
+          filename="package://bruce/meshes/hip_roll_link_l.STL" />
       </geometry>
       <material
         name="">
@@ -429,7 +429,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/hip_roll_link_l.STL" />
+          filename="package://bruce/meshes/hip_roll_link_l.STL" />
       </geometry>
     </collision>
   </link>
@@ -473,7 +473,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/hip_pitch_link_l.STL" />
+          filename="package://bruce/meshes/hip_pitch_link_l.STL" />
       </geometry>
       <material
         name="">
@@ -487,7 +487,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/hip_pitch_link_l.STL" />
+          filename="package://bruce/meshes/hip_pitch_link_l.STL" />
       </geometry>
     </collision>
   </link>
@@ -531,7 +531,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/knee_pitch_link_l.STL" />
+          filename="package://bruce/meshes/knee_pitch_link_l.STL" />
       </geometry>
       <material
         name="">
@@ -545,7 +545,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/knee_pitch_link_l.STL" />
+          filename="package://bruce/meshes/knee_pitch_link_l.STL" />
       </geometry>
     </collision>
   </link>
@@ -589,7 +589,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/ankle_pitch_link_l.STL" />
+          filename="package://bruce/meshes/ankle_pitch_link_l.STL" />
       </geometry>
       <material
         name="">
@@ -603,7 +603,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/ankle_pitch_link_l.STL" />
+          filename="package://bruce/meshes/ankle_pitch_link_l.STL" />
       </geometry>
     </collision>
   </link>
@@ -647,7 +647,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/shoulder_pitch_link_r.STL" />
+          filename="package://bruce/meshes/shoulder_pitch_link_r.STL" />
       </geometry>
       <material
         name="">
@@ -661,7 +661,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/shoulder_pitch_link_r.STL" />
+          filename="package://bruce/meshes/shoulder_pitch_link_r.STL" />
       </geometry>
     </collision>
   </link>
@@ -705,7 +705,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/shoulder_roll_link_r.STL" />
+          filename="package://bruce/meshes/shoulder_roll_link_r.STL" />
       </geometry>
       <material
         name="">
@@ -719,7 +719,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/shoulder_roll_link_r.STL" />
+          filename="package://bruce/meshes/shoulder_roll_link_r.STL" />
       </geometry>
     </collision>
   </link>
@@ -763,7 +763,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/elbow_pitch_link_r.STL" />
+          filename="package://bruce/meshes/elbow_pitch_link_r.STL" />
       </geometry>
       <material
         name="">
@@ -777,7 +777,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/elbow_pitch_link_r.STL" />
+          filename="package://bruce/meshes/elbow_pitch_link_r.STL" />
       </geometry>
     </collision>
   </link>
@@ -821,7 +821,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/shoulder_pitch_link_l.STL" />
+          filename="package://bruce/meshes/shoulder_pitch_link_l.STL" />
       </geometry>
       <material
         name="">
@@ -835,7 +835,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/shoulder_pitch_link_l.STL" />
+          filename="package://bruce/meshes/shoulder_pitch_link_l.STL" />
       </geometry>
     </collision>
   </link>
@@ -879,7 +879,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/shoulder_roll_link_l.STL" />
+          filename="package://bruce/meshes/shoulder_roll_link_l.STL" />
       </geometry>
       <material
         name="">
@@ -893,7 +893,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/shoulder_roll_link_l.STL" />
+          filename="package://bruce/meshes/shoulder_roll_link_l.STL" />
       </geometry>
     </collision>
   </link>
@@ -937,7 +937,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/elbow_pitch_link_l.STL" />
+          filename="package://bruce/meshes/elbow_pitch_link_l.STL" />
       </geometry>
       <material
         name="">
@@ -951,7 +951,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://BRUCE_V1.4_simplified/meshes/elbow_pitch_link_l.STL" />
+          filename="package://bruce/meshes/elbow_pitch_link_l.STL" />
       </geometry>
     </collision>
   </link>
